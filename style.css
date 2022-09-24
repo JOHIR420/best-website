@@ -1,0 +1,32 @@
+body{
+    font-family:'poppins,sen-serif';
+    margin: 0;
+    background-color: #ddd;
+}
+.name{
+    color: orange;
+}
+.jan{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    
+}
+.jan img{
+    width: 100%;
+}
+input{ 
+    color: white;
+    background-color: rgb(240, 84, 211);
+    border:1px solid rgb(240, 84, 211);
+    border-radius: 3px;
+    cursor: pointer;
+}
+.baby{
+    height: 230px;
+    box-shadow: 2px 2px 7px black;
+   
+}
+
+
